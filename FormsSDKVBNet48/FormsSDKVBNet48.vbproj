@@ -132,7 +132,7 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Net.Http" />
     <Reference Include="Tiro.Health.Winforms.FormViewer.Net48, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Tiro.Health.Winforms.FormViewer.Net48.1.0.1\lib\net48\Tiro.Health.Winforms.FormViewer.Net48.dll</HintPath>
+      <HintPath>..\packages\Tiro.Health.Winforms.FormViewer.Net48.1.0.5\lib\net48\Tiro.Health.Winforms.FormViewer.Net48.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
