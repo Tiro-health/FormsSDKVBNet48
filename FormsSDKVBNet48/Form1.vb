@@ -77,7 +77,7 @@ Public Class Form1
         If Not isFormSubmitted Then
             e.Cancel = True
             Await TiroFormViewer.SendFormRequestSubmitAsync()
-            isFormSubmitted = True
+            ' isFormSubmitted = True
         End If
     End Sub
 
